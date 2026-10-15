@@ -3,6 +3,7 @@
 Misery1003 的个人主页：个人介绍、技能、项目作品与技术博客。
 
 **在线地址**：https://misery1003.github.io/personal-site/
+**仓库地址**：https://github.com/Misery1003/personal-site
 
 纯静态 · 零依赖 · 深色主题 · 星空 Canvas 背景 · 多端适配
 
